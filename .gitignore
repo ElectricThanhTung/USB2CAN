@@ -1,0 +1,5 @@
+*.log
+*.PrjPcbStructure
+
+Hardware/__Previews
+Hardware/History
